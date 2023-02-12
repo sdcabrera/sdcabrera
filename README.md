@@ -2,7 +2,7 @@
  
 - :v: :student: I’m currently learning Java and the world from GitHub
 
-- 🛠️ This page is still under construction.
+
 <!--
 **sdcabrera/sdcabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
