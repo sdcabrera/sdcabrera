@@ -1,4 +1,4 @@
-### Hi there👋:rainbow:
+### Hello! I'm Sonia Cabrera
  
 - :v: :student: I’m currently learning Java and the world from GitHub
 
