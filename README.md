@@ -4,7 +4,7 @@ Un gusto conocerte. Soy una apasionada QA con tres años de experiencia en el ca
 
 ¡Vamos a explorar juntos! :v:
 
-![My Skills](https://skillicons.dev/icons?i=github,java,postman,js,html,mysql,eclipse)
+![My Skills](https://skillicons.dev/icons?i=postman,js,html,)
 
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
